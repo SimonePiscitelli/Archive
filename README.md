@@ -7,5 +7,5 @@
 - _Measuring coalescing massive binary black holes with gravitational waves: The impact of spin-induced precession_ [74.122001](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.74.122001?casa_token=FEGNq192rokAAAAA%3AcT3-ElqRBb1MUHC83qqdLEaLt8yL6u1cDLc35rXD3hB4LrbFZrZPQZtMQ78YKIf2uaL-wwhDyZPkumw)
 - _Detectability of gravitational waves from binary black holes: Impact of precession and higher modes_ [95.104038](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.95.104038?casa_token=qMH2_DfR5gUAAAAA%3A9zvIL9RMqhSUJeQDqYhux3AEfoWn7pX-0suf7Vg5TiM_DNa54mLWFSr_rP7WVo4Ff-FjTf-oQODa7PI)
 - _Perihelion precession and shadows near black holes and naked singularities_ [102.044042](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.102.044042?casa_token=5RP3wliWbTgAAAAA%3AcEHXzMGqXZItu89g5wV7bc309CpmnvKzpg851j8WzafcQcLAzGPZIAX7JIQkHYeLvCS-9pE8d79JM_U)
-- _Modeling the ringdown from precessing black hole binaries_ [103.084048](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.103.084048?casa_token=RWPlouIB4WsAAAAA%3AqhloNLJM8TMeAImzc9Be-CI_ca9c1f866MBB2fzHZ1aXnp5GBagscme-mbVh0gk-g295w7mALnVEuk4)
+- _Modeling the ringdown from precessing black hole binaries_ [2102.07794](https://arxiv.org/abs/2102.07794)
 - _Measuring binary black hole orbital-plane spin orientations_ [105.024045](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.105.024045)
