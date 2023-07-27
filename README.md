@@ -1,4 +1,4 @@
-# Binaries-BH-Precession
+# Black Hole Spectroscopy
 
 ### Black Holes Binaries Precession
 - _Eccentric Pairs: Analytic Gravitational Waves from Binary Black Holes in Elliptic Orbits_ [2203.08998.pdf](https://arxiv.org/pdf/2203.08998.pdf)
@@ -10,3 +10,7 @@
 - _Modeling the ringdown from precessing black hole binaries_ [2102.07794](https://arxiv.org/abs/2102.07794)
 - _Measuring binary black hole orbital-plane spin orientations_ [105.024045](https://journals.aps.org/prd/pdf/10.1103/PhysRevD.105.024045)
 - _Modelling gravitational waves from precessing black-hole binaries: progress, challenges and prospects_ [10.1007](https://link.springer.com/article/10.1007/s10714-014-1767-2)
+
+
+### No-Hair Theorem
+- _Testing the No-Hair Theorem with GW150914_ [123.111102](https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.123.111102?casa_token=CUUz7YxiGPMAAAAA%3Aaax69qmrsUOGSOIoGWmZLpxjxeEVGdK8ptc7mx-nptlbx2lsjdEHeWeThV-17g09XOJnWVs0i_hXmbc)
