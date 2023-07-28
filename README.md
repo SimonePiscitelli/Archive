@@ -18,5 +18,6 @@
 
 ### Cosmology
 - _Cosmography with the Einstein Telescope_ [10.1088](https://iopscience.iop.org/article/10.1088/0264-9381/27/21/215006/pdf?casa_token=CdFD02qn7ZkAAAAA:akCyFDDr_PugnpEufX_9S_HQKCd3IPpAMq7RT2hl0cG3U_gHDENsIaXEwTINp02eHsZptGmHrhbqz0Y)
-- _Precision of Hubble constant derived using black hole binary absolute distances and
-statistical redshift information_ [0712.0618](https://arxiv.org/pdf/0712.0618.pdf)
+- _Precision of Hubble constant derived using black hole binary absolute distances and statistical redshift information_ [0712.0618](https://arxiv.org/pdf/0712.0618.pdf)
+- _USING GRAVITATIONAL-WAVE STANDARD SIRENS_ [0504616](https://arxiv.org/pdf/astro-ph/0504616.pdf)
+- _Higher signal harmonics, LISA’s angular resolution, and dark energy_ [0707.3920](https://arxiv.org/pdf/0707.3920.pdf)
