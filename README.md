@@ -24,3 +24,4 @@
 
 ### LISA
 - _Astrophysics with the Laser Interferometer Space Antenna_ [10.1007](https://link.springer.com/article/10.1007/s41114-022-00041-y)
+- _LISA proposal_ [1702.00786](https://arxiv.org/ftp/arxiv/papers/1702/1702.00786.pdf)
