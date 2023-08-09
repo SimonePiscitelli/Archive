@@ -22,6 +22,7 @@
 - _USING GRAVITATIONAL-WAVE STANDARD SIRENS_ [0504616](https://arxiv.org/pdf/astro-ph/0504616.pdf)
 - _Higher signal harmonics, LISA’s angular resolution, and dark energy_ [0707.3920](https://arxiv.org/pdf/0707.3920.pdf)
 
-### LISA
+### LISA and ET
 - _Astrophysics with the Laser Interferometer Space Antenna_ [10.1007](https://link.springer.com/article/10.1007/s41114-022-00041-y)
 - _LISA proposal_ [1702.00786](https://arxiv.org/ftp/arxiv/papers/1702/1702.00786.pdf)
+- _The Einstein Telescope: a third generation gravitational waves observatory_ [194002](https://iopscience.iop.org/article/10.1088/0264-9381/27/19/194002/pdf?casa_token=3A9wgTBzjf8AAAAA:J1hDbsK-282hZPBxkE95srojC04CXqs3KGEmj_8sLZA-xljsfSwxCXrdyqPWHdJ-eklK58HnqgwlqGE)
